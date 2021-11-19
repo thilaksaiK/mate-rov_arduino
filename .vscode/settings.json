@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sensor.h": "c",
+        "accelerometer.h": "c",
+        "arduino.h": "c"
+    }
+}

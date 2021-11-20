@@ -6,6 +6,7 @@
 
 #define WHO_AM_I  0x0F
 #define CTRL_REG1 0x20
+#define CTRL_REG4 0x23
 #define STATUS_REG 0x27
 #define OUT_X_L 0x28
 
